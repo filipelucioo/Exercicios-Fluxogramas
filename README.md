@@ -5,7 +5,8 @@ nessas atividades criamos sistemas no flowgorithm para superar os desafios que o
 ## Exercicio 1: Crie um Fluxograma que
 Leia o nome de uma pessoa
 Digite “Olá, [tal pessoa]!”
-<img width="350" height="753" alt="image" src="https://github.com/user-attachments/assets/c302b7b3-2d62-49d3-9788-fcd84e6d9cf9" />
+<img width="486" height="734" alt="image" src="https://github.com/user-attachments/assets/ee910392-575d-4196-9869-ff970cbfea24" />
+
 
 ## Exercicio 2: Crie um Fluxograma que
 Leia dois números
